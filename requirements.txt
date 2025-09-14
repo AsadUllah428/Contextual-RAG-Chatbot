@@ -1,0 +1,27 @@
+
+# DocuMind AI - Core Dependencies
+
+# Streamlit Framework
+streamlit
+
+# Azure OpenAI
+openai
+
+# AI Agent Framework
+agno
+
+# LangChain for Document Processing
+langchain
+langchain-community
+langchain-core
+
+# Vector Database
+qdrant
+
+
+# PDF Processing
+pypdf
+
+# Core Python Libraries
+numpy
+pandas
