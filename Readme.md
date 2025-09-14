@@ -1,6 +1,7 @@
-#  DocuMind AI - RAG Document Q&A System
+#  DocuMind AI - RAG Document Q&A System (Under Improvements)
 
-A simple yet powerful document Q&A system using Azure OpenAI and Qdrant vector database. Ask questions about your documents and get AI-powered answers with source citations.
+
+A simple yet powerful document Q&A system using Azure OpenAI and Qdrant vector database. Ask questions about your documents and get AI-powered answers with source citations. 
 
 ##  Features
 
